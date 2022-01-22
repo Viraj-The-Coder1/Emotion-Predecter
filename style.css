@@ -1,0 +1,23 @@
+.heading{
+    font-size: 25px !important;
+    letter-spacing: 10px;
+}
+p{
+    color:brown;
+    font-weight: bolder;
+}
+label{
+    font-size: 15px;
+    color:magenta;
+    padding: 6px;
+    border-radius: 10px;
+    background-color:lightpink;
+}
+body{
+    background-color: aquamarine;
+}
+#webcam, #captureimg{
+    border: 3px dashed blueviolet;
+    width: 315px;
+    height: 320px;
+}
